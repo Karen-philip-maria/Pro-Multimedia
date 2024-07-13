@@ -2,16 +2,16 @@ import Footer from './Footer';
 // import Podcast from './Podcast';
 import Video from './Video';
 import './App.css';
-import Navbar from './Home';
-import Page from './Landing';
 import Portfolio from './Portfolio';
 import  Summary from'./Summary'
+import Home from './Home';
+import Landing from './Landing';
 
 function App() {
   return (
     <div>
-       <Page/>
-       <Navbar/>
+      <Landing/>
+      <Home/>
     <Portfolio/>
        {/* <Podcast/> */}
        <Video/>

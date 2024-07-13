@@ -1,6 +1,6 @@
 import './index.css'
 
-const Page = ()=>{
+const Landing = ()=>{
     return(
         <>
         <div id='music'>
@@ -11,4 +11,4 @@ const Page = ()=>{
 
 }
 
-export default Page;
+export default Landing;

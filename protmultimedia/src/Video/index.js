@@ -38,4 +38,4 @@ const Video = () => {
         </div>
     );
 };
-export default Video;
+export default Video

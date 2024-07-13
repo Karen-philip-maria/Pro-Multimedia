@@ -4,7 +4,7 @@ import { Squash as HamburgerIcon } from 'hamburger-react';
 import { motion } from 'framer-motion';
 import { IoMdClose } from 'react-icons/io';
 
-const Navbar = () => {
+const Home= () => {
   const [isOpen, setIsOpen] = useState(false);
   const handleCloseClick = () => {
     setIsOpen(false);
@@ -64,5 +64,5 @@ const Navbar = () => {
     </div>
   );
 };
-export default Navbar;
+export default Home;
 
