@@ -1,0 +1,90 @@
+h2{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+
+}
+#music{
+    background-image: url("../images/music.jpg");
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    padding-bottom: 10px;
+}
+
+@media (min-width: 280pxpx) and (max-width: 480px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+}
+
+@media screen  and (min-width: 490px) and (max-width: 690px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+
+}
+
+@media screen  and (min-width: 691px) and (max-width: 900px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+
+}
+
+@media screen  and (min-width: 1000px) and (max-width: 1200px){
+    h2{
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+    
+    }
+    #music{
+        background-image: url("../images/music.jpg");
+        background-position: initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 900px;
+        padding-bottom: 10px;
+    }
+
+}
