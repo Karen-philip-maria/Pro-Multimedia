@@ -3,7 +3,7 @@ const Video = () => {
     return (
         <div id="video-gallery">
              <div className='video'>
-           <h1>Videos</h1>
+           <h1 className='video-text'>Videos</h1>
         </div>
         <div className='videos'>
             <div className="video1">

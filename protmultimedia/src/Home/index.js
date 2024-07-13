@@ -33,11 +33,11 @@ const Home= () => {
     <div className="navbar">
       <div className='nav'>
       <div className='items'>
-<li><a href="text">Home</a></li>
-<li><a href="text">Podcasts</a></li>
-<li><a href="text">Videos</a></li>
-<li><a href="text">Blogs</a></li>
-<li><a href="text">About Us</a></li>
+<li><a className='navbar-text' href="text">Home</a></li>
+<li><a   className='navbar-text' href="text">Podcasts</a></li>
+<li><a   className='navbar-text' href="text">Videos</a></li>
+<li><a  className='navbar-text'  href="text">Blogs</a></li>
+<li><a  className='navbar-text' href="text">About Us</a></li>
       </div>
       </div>
 <div className='hamburger'>

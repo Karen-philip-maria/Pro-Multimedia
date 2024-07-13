@@ -91,9 +91,7 @@ figcaption{
         margin-right: 40%;
         margin-top: 5%;
     }
-    .mic{
-        width: 60px;
-    }
+    
     .episodes{
         margin-bottom: 0%;
         gap: 35%;
@@ -104,3 +102,15 @@ figcaption{
         font-size: 15px;
     }
 } */
+
+.mics{
+    width: 60px;
+    margin-left: 16%;
+    margin-top: 53px;
+    font-size: 20px;
+}
+#mic{
+    margin-left: 26%;
+    margin-top: -83px;
+    font-size: 20px;
+}

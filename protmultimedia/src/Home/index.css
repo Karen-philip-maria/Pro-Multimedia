@@ -32,16 +32,19 @@
   h4{
     color: #0D2564;
   }
-  .items{
-  display: inline-flex;
-  gap: 96px;
+  .navbar-text{
+  display:flex;
+  /* gap: 26px; */
     list-style-type: none;
     text-decoration: none;
     font-weight: bolder;
     font-size: 28px;
-    color: #0D2564;
-    margin-top: 22px;
-    white-space: nowrap;
+    /* margin-left: 23px; */
+    /* margin-top: -162%; */
+    color:black;
+
+    margin-left: 53%; 
+     white-space: nowrap;
   }
   .items li a:hover{
     cursor: pointer;

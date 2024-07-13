@@ -3,15 +3,15 @@ const Summary = ()=>{
     return(
         <div className='Summary'>
         <div>
-            <h1>Born A Crime</h1>
+            <h1 id='book-title'>Born A Crime</h1>
             <img alt='text' src='MediaBlog/Born A Crime.jpeg'/>
-           <h1>Themes</h1>
+           <h1 id='themes'>Themes</h1>
            <h2>Social Aspects</h2>
            <h2>The possesion of courage and Perseverance</h2>
-           <p>The characters in Born A Crime are able to achieve great succes by having courage and persevering through difficult times</p>
-           <p>When Patricia ws a child she was able to tap into her survivalskills and endure poverty and unhappiness that she was born </p>
-           <p>into. In today's worl this narrative encourages readers to reflect on their own resilience and the importance of perseverance</p>
-           <p>in the face of adversity</p>
+           <p className='p'>The characters in Born A Crime are able to achieve great succes by having courage and persevering through difficult times</p>
+           <p className='p'>When Patricia ws a child she was able to tap into her survivalskills and endure poverty and unhappiness that she was born </p>
+           <p className='p'>into. In today's worl this narrative encourages readers to reflect on their own resilience and the importance of perseverance</p>
+           <p className='p'>in the face of adversity</p>
         </div>
         <div>
             <h1>Political aspects</h1>

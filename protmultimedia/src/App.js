@@ -1,5 +1,5 @@
 import Footer from './Footer';
-// import Podcast from './Podcast';
+import Podcast from './Podcast';
 import Video from './Video';
 import './App.css';
 import Portfolio from './Portfolio';
@@ -12,12 +12,10 @@ function App() {
     <div>
       <Landing/>
       <Home/>
-    <Portfolio/>
-       {/* <Podcast/> */}
-       <Video/>
+      <Podcast/>
+      <Video/>
       <Summary/>
-      
-    
+    <Portfolio/>
       <Footer/>
     </div>
   );
